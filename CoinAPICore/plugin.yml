@@ -1,7 +1,0 @@
-name: CoinAPIcore
-main: Ki\CoinAPIScore\Main
-api: 4.0.0
-version: 1.0.0
-author: Ki
-description: Hiện coin Lên bản thông tin
-depend: [ScoreHud, CoinAPI]
