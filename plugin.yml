@@ -2,7 +2,8 @@ name: CoinAPIcore
 main: Ki\CoinAPIScore\Main
 api: 4.0.0
 version: 1.0.0
-author: Ki
+author: Ifera
+edit: to coin ki
 web: https://web.the-voi.fun/
 description: Hiện coin Lên bản thông tin
 depend: [ScoreHud, CoinAPI]
